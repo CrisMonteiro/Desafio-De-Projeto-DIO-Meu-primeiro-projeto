@@ -1,0 +1,23 @@
+O que é Git?
+É um software de controle de versão/código (vcs- Sitema de controle de versão)
+É um sistema distribuido(armazena dados)
+
+Quais as vantagens de se usar o Git?
+Controle de versão
+Armazenamento em nuvem 
+Trabalho em equipe
+Ramificação de projeto
+É um sistema seguro
+Organização 
+Reconhecimento 
+
+O que é o Git Hub?
+É um repositório remoto (um local para armazenar seus arquivos)
+É uma plataforma social para programadores
+
+Quais as vantagens do Git Hub?
+Repositórios ilimitados
+Hospedagem de códigos
+Caracterecística de rede social
+GitHub Pages integrado
+Coloaboração de outros programadores em seus projetos
