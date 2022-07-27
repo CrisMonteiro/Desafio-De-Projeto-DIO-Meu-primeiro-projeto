@@ -1,0 +1,25 @@
+mkdir: serve para criar uma pasta dentro do terminal Bash.
+mkdir e o nome da pasta que será criada.
+git init: serve para inicializar ou criar um novo repositório 
+ls: listar
+ls -a: Listar arquivos ocultos
+ctrl + L: Limpar tela
+del: deletar arquivo
+rmdir:Limpar pasta(nome do arquivo,/s/q )
+Seta para cima: executa os históricos de comandos executados no terminal
+sha1: algoritimo de encriptação
+blob: é um on=bjeto para guardar arquivos
+TREE: armazena Blobs
+Git Add. ou Git Add -A: quando vc edita um documento clonado tem que adicionar as alterações realizadas.( isso é somente para adicionar alterações na máquina local)
+add.:adiciona as modificações
+add*:cria um novo commit
+commit: é uma das principais funções do git, serve para criar alterações(git commit -m "e uma mensagem ")
+Git config: muda as configurações de e-mail e user name(git config --global user."o endereço de e-mail a ser trocado") o mesmo passo paa user name.
+Esse passo serve para quando o endereço de e-mail e user name estão diferentes na maquina e no GitHub.
+MarkDown: é a linguagem usada no GitHub, precisa usar md para criar a extensão.
+git status: mostra o status dos arquivos
+mv: move os arquivos para a pasta
+Git remote -v:lista de repositóro remoto
+Git push: empurrar repositório(git push origin master)
+Git pull: puxar repositório(git pull origin master)
+GIt bash: terminal estendido para otimizar o uso do git
